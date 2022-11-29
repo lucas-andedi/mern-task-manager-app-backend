@@ -10,8 +10,7 @@
 
 # production
 /build
-
-/frontend
+/fronten
 # misc
 .DS_Store
 .env.local
